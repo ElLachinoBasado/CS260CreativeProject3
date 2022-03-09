@@ -3,6 +3,7 @@
         <div id="main">
             <h1>Matchups</h1>
             <p>The following information is meant to serve as a general guide to the metagame and how Cyber Dragons match up against them. I'm only one person, however, and there are new developments every day, so this list will change. It should go without saying, but I'm not the definitive voice or anything by any means, so don't just blindly believe me either.</p>
+            <p>A +2 Matchup is a really good matchup. A -2 Matchup is an awful matchup. Everything else is inbetween.</p>
         </div>
         <MatchupList :matchups="matchups"/>
         <GithubFooter/>
